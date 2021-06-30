@@ -1,5 +1,5 @@
 # Hi, I'm Sahan 👋🏼
-![repository-open-graph-template](https://user-images.githubusercontent.com/85289620/124023533-a9036700-da0b-11eb-9f6d-4be5ab634fbd.jpg)
+![A1](https://user-images.githubusercontent.com/85289620/124024252-94739e80-da0c-11eb-8a01-ed8b272eb054.jpg)
 
 <!--
 **sahanperera00/sahanperera00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
