@@ -1,4 +1,4 @@
-# Hi, I'm Sahan 👋🏼👨🏻‍💻
+# Hi, I'm Sahan 👋🏼👨🏻‍
 ![repository-open-graph-template](https://user-images.githubusercontent.com/85289620/124023533-a9036700-da0b-11eb-9f6d-4be5ab634fbd.jpg)
 
 <!--
