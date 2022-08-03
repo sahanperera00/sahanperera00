@@ -1,7 +1,8 @@
 # Hi, I'm Sahan 👋🏼
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahanperera00&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanperera00&langs_count=5&theme=github_dark)](https://github.com/Randula98/github-readme-stats))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahanperera00&langs_count=5&theme=github_dark)
+![](![Sahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahanperera00&show_icons=true&theme=radical))
 
 
 
